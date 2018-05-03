@@ -8,4 +8,4 @@ The director of the Renault sales and marketing division wants to use this data 
 
 For this challenge I'll recommend a specific advertizing campaign based on my findings and quantify expected outcome, using previous project that has gathered several consumer traits for 200 000 transactions in France in 2016.
 
-To see the results of this analysis, just read the article on my blog [http://www.nmehdiblog.com/]
+To see the results of this analysis, just read the article on my blog http://www.nmehdiblog.com
