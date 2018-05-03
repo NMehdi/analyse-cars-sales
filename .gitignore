@@ -1,0 +1,10 @@
+*.rar
+*.pptx
+*.png
+*.css
+*.Rmd
+*.html
+*.pdf
+*.Rproj
+*.Rhistory
+data/Renault/*.pdf
